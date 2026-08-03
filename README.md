@@ -12,12 +12,12 @@ I build focused tools for pentesting and CTFs, and document practical red/blue-t
 ## Security telemetry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sirbu-Boeti-Eduard/Sirbu-Boeti-Eduard/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Contribution activity" width="100%">
+  <img src="https://raw.githubusercontent.com/Sirbu-Boeti-Eduard/Sirbu-Boeti-Eduard/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution activity" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sirbu-Boeti-Eduard/Sirbu-Boeti-Eduard/main/profile-summary-card-output/2077/3-stats.svg" alt="GitHub statistics" width="49%">
-  <img src="https://raw.githubusercontent.com/Sirbu-Boeti-Eduard/Sirbu-Boeti-Eduard/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Languages used in commits" width="49%">
+  <img src="https://raw.githubusercontent.com/Sirbu-Boeti-Eduard/Sirbu-Boeti-Eduard/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" width="49%">
+  <img src="https://raw.githubusercontent.com/Sirbu-Boeti-Eduard/Sirbu-Boeti-Eduard/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages used in commits" width="49%">
 </p>
 
 ## Elsewhere
