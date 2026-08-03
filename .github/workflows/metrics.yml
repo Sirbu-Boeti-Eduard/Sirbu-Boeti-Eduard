@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: classic
+          config_timezone: Europe/Bucharest
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, mdx, javascript
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: no
+          plugin_repositories: yes
+          plugin_repositories_featured: Sirbu-Boeti-Eduard/tlspect, Sirbu-Boeti-Eduard/archivegate, Sirbu-Boeti-Eduard/email-dumper
