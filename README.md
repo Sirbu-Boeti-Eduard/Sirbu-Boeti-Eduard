@@ -12,12 +12,12 @@ I build focused tools for pentesting and CTFs, and document practical red/blue-t
 ## Security telemetry
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirbu-Boeti-Eduard&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&chart_color=39d353" alt="Contribution activity" width="100%">
+  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Contribution activity" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sirbu-Boeti-Eduard&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&chart_color=39d353&hide_logo=true" alt="GitHub statistics" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sirbu-Boeti-Eduard&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&chart_color=39d353" alt="Languages used in commits" width="49%">
+  <img src="profile-summary-card-output/2077/3-stats.svg" alt="GitHub statistics" width="49%">
+  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Languages used in commits" width="49%">
 </p>
 
 ## Elsewhere

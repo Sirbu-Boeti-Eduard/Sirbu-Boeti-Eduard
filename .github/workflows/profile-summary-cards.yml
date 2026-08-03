@@ -25,4 +25,4 @@ jobs:
           BRANCH_NAME: "main"
           EXCLUDE: "html,css"
           AUTO_PUSH: true
-          THEME: "2077"
+          THEME: "github_dark"
